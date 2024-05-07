@@ -1,0 +1,21 @@
+{
+    "name": "noxyz20/laravel-waze",
+    "description": "Blank",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Noxyz20\\LaravelWaze\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Franck Colonna",
+            "email": "franckcolonna20@gmail.com"
+        }
+    ],
+    "require": {
+        "spatie/laravel-package-tools": "^1.16"
+    }
+}
