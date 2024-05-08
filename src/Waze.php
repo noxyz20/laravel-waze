@@ -3,7 +3,6 @@
 namespace Noxyz20\LaravelWaze;
 
 use Carbon\Carbon;
-use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Http;
 
